@@ -1,4 +1,4 @@
-package QuanLyNhanVien; // Nhớ sửa package nếu bạn đặt tên khác
+package QuanLyNhanVien; 
 import java.util.*;
 
 public class Main {
@@ -32,8 +32,8 @@ public class Main {
             System.out.println("11. Thêm công việc (Task) cho dự án");
             System.out.println("12. Gán nhân viên vào công việc");
             System.out.println("13. Hiển thị danh sách dự án");
-            System.out.println("14. Ghi file (Demo)");
-            System.out.println("15. Đọc file (Demo)");
+            System.out.println("14. Ghi file ");
+            System.out.println("15. Đọc file ");
             System.out.println("\n0. Thoát chương trình");
             System.out.println("=======================================================");
             System.out.print("==> Vui lòng chọn chức năng (0-15): ");
